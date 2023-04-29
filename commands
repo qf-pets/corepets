@@ -1,0 +1,39 @@
+ 503  gi clone git@github.com:qf-pets/corepets.git
+  504  git clone git@github.com:qf-pets/corepets.git
+  505  cd co
+  506  cd core
+  507  cd corepets/
+  508  ls- lrt
+  509  ls -lrt
+  510  ls -lrta
+  511  git remote -v
+  512  ls -lrt
+  513  touch package.json
+  514  touch app.js
+  515  git status
+  516  cleart
+  517  clear
+  518  git
+  519  git status
+  520  git add .
+  521  git status
+  522  git commit -m "updated files"
+  523  git log
+  524  ls -lrt
+  525  touch Dockerfile
+  526  git status
+  527  git add .
+  528  git commit -m "added dockerfile"
+  529  git log
+  530  git push origin main
+  531  git remote -v
+  532  ssh-keygen
+  533  cd /Users/ravi/.ssh
+  534  ls -lrt
+  535  cat id_rsa.pub
+  536  cd
+  537  cd corepets/
+  538  clear
+  539  git log
+  540  git pull
+  541  history
